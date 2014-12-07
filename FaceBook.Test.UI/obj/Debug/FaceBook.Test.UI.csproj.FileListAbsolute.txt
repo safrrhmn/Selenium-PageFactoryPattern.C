@@ -26,3 +26,17 @@ E:\VisualStudioProjects\Facebook\FaceBook.Test.UI\bin\Debug\WebDriver.Support.xm
 E:\VisualStudioProjects\Facebook\FaceBook.Test.UI\obj\Debug\FaceBook.Test.UI.csprojResolveAssemblyReference.cache
 E:\VisualStudioProjects\Facebook\FaceBook.Test.UI\obj\Debug\FaceBook.Test.UI.dll
 E:\VisualStudioProjects\Facebook\FaceBook.Test.UI\obj\Debug\FaceBook.Test.UI.pdb
+E:\Working\Test.UI.FaceBook.Java\Selenium-PageFactoryPattern.C\FaceBook.Test.UI\bin\Debug\chromedriver.exe
+E:\Working\Test.UI.FaceBook.Java\Selenium-PageFactoryPattern.C\FaceBook.Test.UI\bin\Debug\IEDriverServer.exe
+E:\Working\Test.UI.FaceBook.Java\Selenium-PageFactoryPattern.C\FaceBook.Test.UI\bin\Debug\chromedriver-license.txt
+E:\Working\Test.UI.FaceBook.Java\Selenium-PageFactoryPattern.C\FaceBook.Test.UI\bin\Debug\FaceBook.Test.UI.dll
+E:\Working\Test.UI.FaceBook.Java\Selenium-PageFactoryPattern.C\FaceBook.Test.UI\bin\Debug\FaceBook.Test.UI.pdb
+E:\Working\Test.UI.FaceBook.Java\Selenium-PageFactoryPattern.C\FaceBook.Test.UI\bin\Debug\nunit.framework.dll
+E:\Working\Test.UI.FaceBook.Java\Selenium-PageFactoryPattern.C\FaceBook.Test.UI\bin\Debug\WebDriver.dll
+E:\Working\Test.UI.FaceBook.Java\Selenium-PageFactoryPattern.C\FaceBook.Test.UI\bin\Debug\WebDriver.Support.dll
+E:\Working\Test.UI.FaceBook.Java\Selenium-PageFactoryPattern.C\FaceBook.Test.UI\bin\Debug\nunit.framework.xml
+E:\Working\Test.UI.FaceBook.Java\Selenium-PageFactoryPattern.C\FaceBook.Test.UI\bin\Debug\WebDriver.xml
+E:\Working\Test.UI.FaceBook.Java\Selenium-PageFactoryPattern.C\FaceBook.Test.UI\bin\Debug\WebDriver.Support.xml
+E:\Working\Test.UI.FaceBook.Java\Selenium-PageFactoryPattern.C\FaceBook.Test.UI\obj\Debug\FaceBook.Test.UI.csprojResolveAssemblyReference.cache
+E:\Working\Test.UI.FaceBook.Java\Selenium-PageFactoryPattern.C\FaceBook.Test.UI\obj\Debug\FaceBook.Test.UI.dll
+E:\Working\Test.UI.FaceBook.Java\Selenium-PageFactoryPattern.C\FaceBook.Test.UI\obj\Debug\FaceBook.Test.UI.pdb
